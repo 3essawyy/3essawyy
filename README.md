@@ -18,7 +18,7 @@
 
 I'm a Computer & Communications Engineering student at Cairo University who genuinely enjoys building things that scale. My sweet spot is **backend systems** — designing APIs, wiring up real-time services, and thinking about architecture that holds up under pressure.
 
-On the side, I've been diving into **ML and AI** through coursework and projects, building everything from computer vision pipelines to vector database indexes from scratch. I'm also currently going deep on **DevOps & CI/CD** because shipping code reliably matters just as much as writing it well.
+Outside of backend work, I find myself drawn to ML problems — I've built a computer vision pipeline and a vector database index from scratch, mostly because I wanted to understand how the pieces actually work under the hood. I'm also currently going deep on **DevOps & CI/CD** because shipping code reliably matters just as much as writing it well.
 
 ---
 
@@ -53,9 +53,9 @@ A full-scale audio platform built as a backend developer in a software engineeri
 
 ---
 
-## 🤖 Machine Learning & AI
+## 🤖 Side Interest — ML & Computer Vision
 
-> *Applying theory from the classroom into real, working systems.*
+> *I like understanding how things work under the hood — these projects came from that curiosity.*
 
 ### 🔍 STEP Scanner — College ID Scanner `December 2025`
 
