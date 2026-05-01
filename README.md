@@ -49,7 +49,7 @@ A full-scale audio platform built as a backend developer in a software engineeri
 - Built an **event-driven subscription module** using Stripe webhooks — async checkout handling, quota enforcement, and an atomic album-aware downgrade algorithm
 - Integrated **Socket.io** for a real-time user messaging and notification subsystem
 
-> 📂 [View Repository](https://github.com/yousef-elessawy/pulsify)
+> 📂 [View Repository](https://github.com/Pulsify-dev/Backend)
 
 ---
 
@@ -65,7 +65,7 @@ A full-scale audio platform built as a backend developer in a software engineeri
 - Trained an **SVM classifier with HOG features** for handwritten digit recognition — extracted student IDs and batch numbers from scanned cards
 - Experimented with **EasyOCR and Tesseract** for Arabic text extraction
 
-> 📂 [View Repository](https://github.com/yousef-elessawy/step-scanner)
+> 📂 [View Repository](https://github.com/3essawyy/STEP_ID-Scanner)
 
 ---
 
@@ -77,7 +77,7 @@ A full-scale audio platform built as a backend developer in a software engineeri
 - Optimized storage using **memory-mapped NumPy** and centroid indexing to achieve sub-linear query time
 - Handled **1M+ high-dimensional vectors** using batch processing and lazy loading
 
-> 📂 [View Repository](https://github.com/yousef-elessawy/vecindex)
+> 📂 [View Repository](https://github.com/Proguy2016/vec_db)
 
 ---
 
@@ -85,11 +85,11 @@ A full-scale audio platform built as a backend developer in a software engineeri
 
 | Project | Description | Stack |
 |---|---|---|
-| [Collaborative Text Editor](https://github.com/yousef-elessawy) | Google Docs-style real-time editor with CRDTs for conflict-free concurrent editing | Spring Boot · JavaFX · WebSockets |
-| [Process Scheduler](https://github.com/yousef-elessawy) | Linux-based OS scheduler implementing HPF, SRTN, and RR algorithms + Buddy System Memory Allocator | C · Sys V IPC |
-| [Digital Smart Watch](https://github.com/yousef-elessawy) | STM32 Bluepill embedded system with TFT display, TIMER/GPIO peripherals, and multiple sensors | C · Embedded · STM32 |
-| [Gym Management System](https://github.com/yousef-elessawy) | Full DBMS with 4 user roles, ~20 functionalities, and managerial reports | C# .NET · SQL |
-| [Earth VS Aliens Simulator](https://github.com/yousef-elessawy) | Multi-mode battle simulator with custom-built data structures from scratch | C++ |
+| [Collaborative Text Editor](https://github.com/3essawyy/Collaborative-Text-Editor-) | Google Docs-style real-time editor with CRDTs for conflict-free concurrent editing | Spring Boot · JavaFX · WebSockets |
+| [Process Scheduler](https://github.com/3essawyy/OS_Scheduler) | Linux-based OS scheduler implementing HPF, SRTN, and RR algorithms + Buddy System Memory Allocator | C · Sys V IPC |
+| [Digital Smart Watch]([https://github.com/yousef-elessawy](https://github.com/3essawyy/Digital-Smart-Watch-Microprocessor-Project-)) | STM32 Bluepill embedded system with TFT display, TIMER/GPIO peripherals, and multiple sensors | C · Embedded · STM32 |
+| [Gym Management System]([https://github.com/yousef-elessawy](https://github.com/3essawyy/SerenityGym)) | Full DBMS with 4 user roles, ~20 functionalities, and managerial reports | C# .NET · SQL |
+| [Earth VS Aliens Simulator]([https://github.com/yousef-elessawy](https://github.com/3essawyy/Earth_VS_Aliens_DS)) | Multi-mode battle simulator with custom-built data structures from scratch | C++ |
 
 ---
 
