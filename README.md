@@ -87,9 +87,9 @@ A full-scale audio platform built as a backend developer in a software engineeri
 |---|---|---|
 | [Collaborative Text Editor](https://github.com/3essawyy/Collaborative-Text-Editor-) | Google Docs-style real-time editor with CRDTs for conflict-free concurrent editing | Spring Boot · JavaFX · WebSockets |
 | [Process Scheduler](https://github.com/3essawyy/OS_Scheduler) | Linux-based OS scheduler implementing HPF, SRTN, and RR algorithms + Buddy System Memory Allocator | C · Sys V IPC |
-| [Digital Smart Watch]([https://github.com/yousef-elessawy](https://github.com/3essawyy/Digital-Smart-Watch-Microprocessor-Project-)) | STM32 Bluepill embedded system with TFT display, TIMER/GPIO peripherals, and multiple sensors | C · Embedded · STM32 |
-| [Gym Management System]([https://github.com/yousef-elessawy](https://github.com/3essawyy/SerenityGym)) | Full DBMS with 4 user roles, ~20 functionalities, and managerial reports | C# .NET · SQL |
-| [Earth VS Aliens Simulator]([https://github.com/yousef-elessawy](https://github.com/3essawyy/Earth_VS_Aliens_DS)) | Multi-mode battle simulator with custom-built data structures from scratch | C++ |
+| [Digital Smart Watch](https://github.com/3essawyy/Digital-Smart-Watch-Microprocessor-Project-) | STM32 Bluepill embedded system with TFT display, TIMER/GPIO peripherals, and multiple sensors | C · Embedded · STM32 |
+| [Gym Management System](https://github.com/3essawyy/SerenityGym) | Full DBMS with 4 user roles, ~20 functionalities, and managerial reports | C# .NET · SQL |
+| [Earth VS Aliens Simulator](https://github.com/3essawyy/Earth_VS_Aliens_DS) | Multi-mode battle simulator with custom-built data structures from scratch | C++ |
 
 ---
 
