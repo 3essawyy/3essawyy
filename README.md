@@ -6,8 +6,8 @@
 
 📍 Cairo, Egypt &nbsp;|&nbsp; 🎓 CCE @ Cairo University (Expected 2027) &nbsp;|&nbsp; 🔍 Actively seeking SWE internships & roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-elessawy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousef-elessawy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-elessawy-997807276/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3essawyy)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.elessawi2004@gmail.com)
 
 </div>
